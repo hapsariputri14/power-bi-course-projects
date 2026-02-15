@@ -23,10 +23,12 @@ For my final project, I analyzed the domestic airline market in India to help a 
 
 The dashboard reveals critical insights, such as the revenue gap between non-stop and transit flights, and identifies the peak booking hours where demand is highest. By looking at these patterns, I was able to recommend specific entry strategies for a new airline, such as focusing on high-traffic routes like Delhi to Mumbai.
 
-### Practice Highlights: Sales Performance Dashboard
+## Practice Highlights: Sales Performance Dashboard
 Throughout the course, I also developed various reports to practice specific BI techniques. This dashboard from my reporting module focuses on sales growth, region performance, and product profitability.
 
 ![Sales Performance Dashboard](5-reporting-and-dashboard/Sales_Performance_Dashboard.png)
+
+The dashboard highlights a 6.9% overall sales growth, with a deep dive into how specific products like the LG V50 and Realme X3 drive the majority of the revenue. By analyzing the "Sales Growth per Month" trend, I identified seasonal fluctuations that allow for better inventory planning. These insights help businesses prioritize high-performing regions and adjust marketing strategies for products with lower profit margins.
 
 ## Repository Structure
 
